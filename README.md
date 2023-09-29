@@ -1,6 +1,6 @@
 # proiect_final_examen
 
-<h2>Cuprins2</h2>
+<h2>Cuprins</h2>
 
 **I. Noțiuni teoretice**
       - Informații acumulate ca urmare a parcurgerii cursului de testare manuală;
