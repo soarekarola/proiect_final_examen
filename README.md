@@ -7,8 +7,12 @@
       
 **II. Aspecte practice**
       - Punerea în aplicare a cunoștințelor dobândite;
+
+      
       
 **I. Noțiuni teoretice - Informații acumulate ca urmare a parcurgerii cursului de testare manuală**
+
+
 
 **1. Ce sunt cerințele de business, la ce ne folosesc și cine le creează:**
 
@@ -29,9 +33,10 @@ Cerințele de business pot fi create de diverse echipe sau persoane în funcție
    Test condition este o declarație generală sau o cerință pentru un aspect specific al software-ului, în timp ce un test case este o implementare specifică și detaliată a acelei condiții de test, care poate fi efectuată pentru a verifica dacă software-ul se comportă conform cerințelor. Test case-urile sunt create pe baza condițiilor de test și servesc ca si ghid pentru testerii care efectuează testarea software-ului.
 
 **Test Condition (Condiție de testare):**
-	O condiție de test reprezintă o situație sau un scenariu specific pe care un tester îl identifică pentru a verifica dacă anumite aspecte ale software-ului funcționează corect.
+   O condiție de test reprezintă o situație sau un scenariu specific pe care un tester îl identifică pentru a verifica dacă anumite aspecte ale software-ului funcționează corect.
 
 	Aceasta este o declarație generală sau o cerință pe baza căreia se pot crea mai multe teste de tip test case. Condițiile de test sunt adesea exprimate în termeni de intrări (input) și așteptări (expected output).
+ 
 **Test Case (Caz de testare):**
 	Un test case este o specificație detaliată a unui scenariu de test, care include toate detaliile necesare pentru a efectua testul specific al unei condiții de test.
 
