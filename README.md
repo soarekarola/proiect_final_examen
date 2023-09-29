@@ -82,11 +82,7 @@ Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită a
         White-box Testing-se concentrează pe testarea software-ului cu cunoștințe detaliate despre structura internă și logica codului sursă. Testerii au acces la cod și înțeleg cum este implementat software-ul.
 
 
-**7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
-![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/f3746221-9f4f-4792-9bd3-9cdc00488ea2)
-
-
-![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/6171a03c-b70d-4209-9e39-65c6b213f271)
+**7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
 
 
 **8. Diferențe între verification și validation**
