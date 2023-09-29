@@ -44,7 +44,9 @@ Cerințele de business pot fi create de diverse echipe sau persoane în funcție
    
 
 **1. Planificarea testelor:**  implică definirea obiectivelor de testare, stabilirea resurselor necesare (personal, echipamente, mediul de testare), identificarea priorităților și stabilirea unui program de testare. Se crează un plan de testare care include descrierea detaliată a testelor, strategiile de testare și criteriile de acceptare.
+#
 **2. Monitorzare si control:** Această etapă implică supravegherea și gestionarea continuă a procesului de testare pe măsură ce acesta progresează.
+#
 Se asigură că planurile de testare sunt urmate și că resursele sunt gestionate eficient.
 Se iau măsuri pentru a aborda și a rezolva eventualele probleme sau întârzieri care pot apărea în timpul testării.
 **3. Analiza:** În această etapă, se analizează cerințele, specificațiile și documentația software pentru a identifica ce trebuie testat și pentru a înțelege contextul în care software-ul va fi utilizat.
