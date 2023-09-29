@@ -67,7 +67,7 @@ Defectele sau erorile găsite sunt raportate și urmărite pentru rezolvare.
 **Re-testing**
 Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită anterior a fost remediată corect de către dezvoltatori. Acesta se concentrează pe validarea că un bug specific, care a fost raportat și rezolvat, nu mai există în software-ul modificat.
 
-	**Regression Testing (Testare de regresie):**
+**Regression Testing (Testare de regresie)**
  Se concentrează pe asigurarea că modificările recente aduse în software nu au afectat funcționalitățile existente și că defectele sau erorile noi nu au apărut din cauza acestor modificări. Scopul său principal este de a verifica integritatea și stabilitatea software-ului pe măsură ce acesta evoluează. este o formă de testare mai cuprinzătoare, care trebuie să acopere o gamă largă de funcționalități existente. Acesta nu se limitează la cazurile de testare afectate de un anumit defect, ci include o suită mai mare de teste care acoperă funcționalitățile de bază ale software-ului.
 
 **5. Diferențe între functional testing și non-functional testing**
@@ -82,7 +82,7 @@ Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită a
         White-box Testing-se concentrează pe testarea software-ului cu cunoștințe detaliate despre structura internă și logica codului sursă. Testerii au acces la cod și înțeleg cum este implementat software-ul.
 
 
-	**7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
+**7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
 ![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/f3746221-9f4f-4792-9bd3-9cdc00488ea2)
 
 
