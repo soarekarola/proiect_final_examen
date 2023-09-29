@@ -105,7 +105,8 @@ Negative Testing (Testare negativă): Negative testing se concentrează pe testa
 Exemplu: Într-o aplicație de validare a formularelor online, un test de negative testing ar putea implica încercarea de a trimite formularul fără a completa un câmp obligatoriu sau introducerea unui e-mail invalid (fără "@" sau ".com"). Testul ar verifica dacă aplicația afișează un mesaj de eroare corespunzător și nu permite trimiterea formularului cu date invalide.
 
 **10. Nivelurile de testare enumerate si explicate**
-11. ![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/8e5866ca-4df6-4d84-977a-bc8e22947c00)
+
+![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/8e5866ca-4df6-4d84-977a-bc8e22947c00)
 
 Testarea Unității (Unit Testing): Testează: Funcții, metode, clase sau module individuale.
 
