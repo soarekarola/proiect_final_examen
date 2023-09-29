@@ -1,15 +1,14 @@
 # proiect_final_examen
 
-Cuprins
+<h2>Cuprins2</h2>
 
-I. Noțiuni teoretice
+**I. Noțiuni teoretice**
       - Informații acumulate ca urmare a parcurgerii cursului de testare manuală;
       
-II. Aspecte practice
+**II. Aspecte practice**
       - Punerea în aplicare a cunoștințelor dobândite;
       
-I. Noțiuni teoretice - Informații acumulate ca urmare a parcurgerii cursului de testare manuală
-
+**I. Noțiuni teoretice - Informații acumulate ca urmare a parcurgerii cursului de testare manuală**
 
 **1. Ce sunt cerințele de business, la ce ne folosesc și cine le creează:**
 
@@ -38,10 +37,8 @@ Cerințele de business pot fi create de diverse echipe sau persoane în funcție
 
 	Un test case cuprinde informații precum: datele de intrare (input), acțiunile care trebuie efectuate, pașii pentru a realiza testul, condiții prealabile (preconditions), și rezultatele așteptate.
 
-** 3. Etapele procesului de testare si explicarea lor:**
-
-    ![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/630d1a7b-8e6d-4362-9589-06656f00c186)
-    
+ **3. Etapele procesului de testare si explicarea lor:**
+   
 
 **1. Planificarea testelor:**  implică definirea obiectivelor de testare, stabilirea resurselor necesare (personal, echipamente, mediul de testare), identificarea priorităților și stabilirea unui program de testare. Se crează un plan de testare care include descrierea detaliată a testelor, strategiile de testare și criteriile de acceptare.
 **2. Monitorzare si control:** Această etapă implică supravegherea și gestionarea continuă a procesului de testare pe măsură ce acesta progresează.
