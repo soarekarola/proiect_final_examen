@@ -58,7 +58,8 @@ Defectele sau erorile găsite sunt raportate și urmărite pentru rezolvare.
 
 
 **4. Diferențe între retesting și regression testing**
-	Re-testing se concentrează pe verificarea remedierii unui defect specific, în timp ce regression testing vizează asigurarea că schimbările recente nu au introdus noi probleme sau nu au afectat funcționalitățile existente ale software-ului. Ambele tipuri de teste sunt esențiale în asigurarea calității software-ului în timpul procesului de dezvoltare. 
+
+Re-testing se concentrează pe verificarea remedierii unui defect specific, în timp ce regression testing vizează asigurarea că schimbările recente nu au introdus noi probleme sau nu au afectat funcționalitățile existente ale software-ului. Ambele tipuri de teste sunt esențiale în asigurarea calității software-ului în timpul procesului de dezvoltare. 
  
 **Re-testing**
 Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită anterior a fost remediată corect de către dezvoltatori. Acesta se concentrează pe validarea că un bug specific, care a fost raportat și rezolvat, nu mai există în software-ul modificat.
