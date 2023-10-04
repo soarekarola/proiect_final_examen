@@ -69,16 +69,6 @@ Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită a
 
 **5. Diferențe între functional testing și non-functional testing**
 
-        Testarea funcțională reprezintă testarea unui produs software conform specificațiilor sau cerințelor din partea clientului. Se vor testa aspecte precum interfața utilizatorului, logarea etc.
- 	Testarea non-funcțională privește aspecte non-funcționale ale aplicației ( testarea de performanță, testarea de load, testarea de test, testarea securității).
-
-  **6. Diferențe între blackbox testing și whitebox testing**
-
-       Black-box Testing-se concentrează asupra testării software-ului fără a avea cunoștințe detaliate despre codul sursă intern. Testerii tratează software-ul ca o "cutie neagră" și nu sunt interesați de structura internă sau de logica sa.
-
-        White-box Testing-se concentrează pe testarea software-ului cu cunoștințe detaliate despre structura internă și logica codului sursă. Testerii au acces la cod și înțeleg cum este implementat software-ul.
-
-
 **7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
 
 
