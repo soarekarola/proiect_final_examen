@@ -22,9 +22,8 @@ Cerințele de business pot fi create de diverse echipe sau persoane în funcție
 Acestea pot fi elaborate de:
 
 
-    1. Echipe de management, 	2. Departamentele de marketing, 
-
-    3. Cercetare și dezvoltare, 	4. Consultanți externi specializați în dezvoltarea de cerințe de business.
+1. Echipe de management, 	2. Departamentele de marketing, 
+3. Cercetare și dezvoltare, 	4. Consultanți externi specializați în dezvoltarea de cerințe de business.
 
     
 **2. Diferența între un test condition și test case**
