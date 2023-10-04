@@ -68,6 +68,9 @@ Este efectuat pentru a verifica dacă o anumită problemă sau defect găsită a
  Se concentrează pe asigurarea că modificările recente aduse în software nu au afectat funcționalitățile existente și că defectele sau erorile noi nu au apărut din cauza acestor modificări. Scopul său principal este de a verifica integritatea și stabilitatea software-ului pe măsură ce acesta evoluează. este o formă de testare mai cuprinzătoare, care trebuie să acopere o gamă largă de funcționalități existente. Acesta nu se limitează la cazurile de testare afectate de un anumit defect, ci include o suită mai mare de teste care acoperă funcționalitățile de bază ale software-ului.
 
 **5. Diferențe între functional testing și non-functional testing**
+Testarea funcțională reprezintă testarea unui produs software conform specificațiilor sau cerințelor din partea clientului. Se vor testa aspecte precum interfața utilizatorului, logarea etc.
+
+       Testarea non-funcțională privește aspecte non-funcționale ale aplicației ( testarea de performanță, testarea de load, testarea de test, testarea securității).
 
 **7. Tehnici de testare în funcție de categorie (blackbox, whitebox,experience-based)**
 
