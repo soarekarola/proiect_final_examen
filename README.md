@@ -19,12 +19,6 @@
 Cerințele de business reprezintă specificațiile și detaliile necesare pentru a dezvolta, implementa sau îmbunătăți un produs, un serviciu sau un proces într-o organizație. Aceste cerințe sunt esențiale pentru a asigura că un proiect îndeplinește obiectivele și nevoile organizației si sunt utilizate pentru a ghida eforturile angajaților și ale echipei de proiect în vederea atingerii obiectivelor stabilite.
 Cerințele de business pot fi create de diverse echipe sau persoane în funcție de contextul organizațional. 
 
-Acestea pot fi elaborate de:
-
-
-    1. Echipe de management,	        2. Departamentele de marketing, 
-
-    3. Cercetare și dezvoltare, 	    4. Consultanți externi specializați în dezvoltarea de cerințe de business.
     
 **2. Diferența între un test condition și test case**
 
