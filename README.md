@@ -78,29 +78,29 @@ Testarea non-funcțională privește aspecte non-funcționale ale aplicației ( 
 
 Verificarea se concentrează pe construirea corectă a produsului, în timp ce validarea se concentrează pe construirea produsului corect. Ambele concepte sunt esențiale în asigurarea calității software-ului și sunt aplicate în diferite etape ale procesului de dezvoltare pentru a garanta că produsul final îndeplinește nevoile și așteptările clienților.
 
-Verification (Verificare):Scopul verificării este să se asigure că produsul software este construit corect și conform specificațiilor, Verificarea are loc pe tot parcursul procesului de dezvoltare, înainte de a ajunge la faza de validare. Verificarea este responsabilitatea echipei de dezvoltare și a testerilor din cadrul proiectului. Aceștia trebuie să se asigure că codul sursă este scris corect și că toate componentele sunt integrate corespunzător.
+**Verification** (Verificare):Scopul verificării este să se asigure că produsul software este construit corect și conform specificațiilor, Verificarea are loc pe tot parcursul procesului de dezvoltare, înainte de a ajunge la faza de validare. Verificarea este responsabilitatea echipei de dezvoltare și a testerilor din cadrul proiectului. Aceștia trebuie să se asigure că codul sursă este scris corect și că toate componentele sunt integrate corespunzător.
 
-Validation (Validare):Scopul validării este să se asigure că produsul software îndeplinește cu succes cerințele și așteptările utilizatorilor sau clienților finali. Ea se concentrează pe testarea produsului într-un mediu real pentru a confirma că acesta corespunde necesităților și așteptărilor utilizatorilor. Validarea este de obicei responsabilitatea echipei de testare, utilizatorilor finali și clienților.
+**Validation** (Validare):Scopul validării este să se asigure că produsul software îndeplinește cu succes cerințele și așteptările utilizatorilor sau clienților finali. Ea se concentrează pe testarea produsului într-un mediu real pentru a confirma că acesta corespunde necesităților și așteptărilor utilizatorilor. Validarea este de obicei responsabilitatea echipei de testare, utilizatorilor finali și clienților.
 
 
 **9. Diferențe între positive testing și negative testing și câte un exemplu din fiecare**
 
-Positive Testing (Testare pozitivă):se concentrează pe testarea software-ului cu date de intrare și condiții care sunt conforme cu așteptările și cerințele specificate. În acest tip de testare, se presupune că utilizatorii vor introduce date valide și vor urma fluxurile de lucru corecte. Scopul positive testing este de a verifica dacă software-ul funcționează așa cum ar trebui în situații obișnuite și conforme cu cerințele.
+**Positive Testing** (Testare pozitivă):se concentrează pe testarea software-ului cu date de intrare și condiții care sunt conforme cu așteptările și cerințele specificate. În acest tip de testare, se presupune că utilizatorii vor introduce date valide și vor urma fluxurile de lucru corecte. Scopul positive testing este de a verifica dacă software-ul funcționează așa cum ar trebui în situații obișnuite și conforme cu cerințele.
 Exemplu: Pentru o aplicație de rezervare a biletelor de avion, un test de positive testing ar implica introducerea unei date de plecare validă, destinației valide și a altor informații corecte în formularul de rezervare și verificarea dacă rezervarea este procesată cu succes.
 
-Negative Testing (Testare negativă): Negative testing se concentrează pe testarea software-ului cu date de intrare și condiții care sunt nevalide, neașteptate sau care încalcă cerințele. Acest tip de testare vizează identificarea comportamentelor nedorite sau erorilor. Scopul negative testing este de a verifica dacă software-ul gestionează corect situațiile nevalide și erorile, precum și dacă furnizează mesaje de eroare adecvate sau alte răspunsuri.
+**Negative Testing** (Testare negativă): Negative testing se concentrează pe testarea software-ului cu date de intrare și condiții care sunt nevalide, neașteptate sau care încalcă cerințele. Acest tip de testare vizează identificarea comportamentelor nedorite sau erorilor. Scopul negative testing este de a verifica dacă software-ul gestionează corect situațiile nevalide și erorile, precum și dacă furnizează mesaje de eroare adecvate sau alte răspunsuri.
 Exemplu: Într-o aplicație de validare a formularelor online, un test de negative testing ar putea implica încercarea de a trimite formularul fără a completa un câmp obligatoriu sau introducerea unui e-mail invalid (fără "@" sau ".com"). Testul ar verifica dacă aplicația afișează un mesaj de eroare corespunzător și nu permite trimiterea formularului cu date invalide.
 
 **10. Nivelurile de testare enumerate si explicate**
 
 ![image](https://github.com/soarekarola/proiect_final_examen/assets/125393822/8e5866ca-4df6-4d84-977a-bc8e22947c00)
 
-Testarea Unității (Unit Testing): Testează: Funcții, metode, clase sau module individuale.
+**Testarea Unității** (Unit Testing): Testează: Funcții, metode, clase sau module individuale.
 
-Testarea Integrării (Integration Testing):Testează: Interfețele și fluxurile de date între module sau subsisteme.
+**Testarea Integrării** (Integration Testing):Testează: Interfețele și fluxurile de date între module sau subsisteme.
 
-Testarea Sistemului (System Testing):Testează: Funcționalitatea globală a sistemului în diverse scenarii.
+**Testarea Sistemului** (System Testing):Testează: Funcționalitatea globală a sistemului în diverse scenarii.
 
-Testarea Acceptanței Utilizatorilor (User Acceptance Testing - UAT): Testează: Funcționalități de nivel înalt și scenarii reprezentative, de obicei, de către utilizatorii finali sau clienții.
+**Testarea Acceptanței Utilizatorilor** (User Acceptance Testing - UAT): Testează: Funcționalități de nivel înalt și scenarii reprezentative, de obicei, de către utilizatorii finali sau clienții.
 
   
