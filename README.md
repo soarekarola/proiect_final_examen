@@ -76,11 +76,13 @@ Testarea funcțională reprezintă testarea unui produs software conform specifi
 
 
 **8. Diferențe între verification și validation**
- Verificarea se concentrează pe construirea corectă a produsului, în timp ce validarea se concentrează pe construirea produsului corect. Ambele concepte sunt esențiale în asigurarea calității software-ului și sunt aplicate în diferite etape ale procesului de dezvoltare pentru a garanta că produsul final îndeplinește nevoile și așteptările clienților.
 
-	Verification (Verificare): Scopul verificării este să se asigure că produsul software este construit corect și conform specificațiilor, Verificarea are loc pe tot parcursul procesului de dezvoltare, înainte de a ajunge la faza de validare. Verificarea este responsabilitatea echipei de dezvoltare și a testerilor din cadrul proiectului. Aceștia trebuie să se asigure că codul sursă este scris corect și că toate componentele sunt integrate corespunzător.
+	Verificarea se concentrează pe construirea corectă a produsului, în timp ce validarea se concentrează pe construirea produsului corect. Ambele concepte sunt esențiale în asigurarea calității software-ului și sunt aplicate în diferite etape ale procesului de dezvoltare pentru a garanta că produsul final îndeplinește nevoile și așteptările clienților.
 
-	Validation (Validare): Scopul validării este să se asigure că produsul software îndeplinește cu succes cerințele și așteptările utilizatorilor sau clienților finali. Ea se concentrează pe testarea produsului într-un mediu real pentru a confirma că acesta corespunde necesităților și așteptărilor utilizatorilor. Validarea este de obicei responsabilitatea echipei de testare, utilizatorilor finali și clienților.
+	Verification (Verificare):Scopul verificării este să se asigure că produsul software este construit corect și conform specificațiilor, Verificarea are loc pe tot parcursul procesului de dezvoltare, înainte de a ajunge la faza de validare. Verificarea este responsabilitatea echipei de dezvoltare și a testerilor din cadrul proiectului. Aceștia trebuie să se asigure că codul sursă este scris corect și că toate componentele sunt integrate corespunzător.
+
+	Validation (Validare):Scopul validării este să se asigure că produsul software îndeplinește cu succes cerințele și așteptările utilizatorilor sau clienților finali. Ea se concentrează pe testarea produsului într-un mediu real pentru a confirma că acesta corespunde necesităților și așteptărilor utilizatorilor. Validarea este de obicei responsabilitatea echipei de testare, utilizatorilor finali și clienților.
+
 
 **9. Diferențe între positive testing și negative testing și câte un exemplu din fiecare**
 
